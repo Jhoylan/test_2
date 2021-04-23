@@ -1,0 +1,28 @@
+xxx,status,origem,MS,data_boletim,data_coleta,state,data_dados,confirmed,deaths,vaccination,date_br,boletim_de_hoje,dados_de_hoje,UF,link_painel,frequencia_prints,obs_do_link
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:13,AC,2021-04-21,75879,1449,85897,21/4/21,FALSE,ontem,AC* ,http://covid19.ac.gov.br/monitoramento/notificacoes/boletim,,"14/8: A Sesacre informa ainda que, a partir desta data, a lista de óbitos por Covid-19 passará a ser divulgada de segunda a sexta-feira. Os óbitos do final de semana serão informados no boletim de segunda-feira."
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:15,AL,2021-04-21,168272,4034,416096,21/4/21,FALSE,ontem,AL* ,http://www.alagoascontraocoronavirus.al.gov.br/,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:17,AM,2021-04-21,365433,12454,535545,21/4/21,FALSE,ontem,AM* ,http://www.saude.am.gov.br/painel/corona/,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:19,AP,2021-04-21,103733,1488,105012,21/4/21,FALSE,ontem,AP* ,,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:20,BA,2021-04-21,871672,17574,2143424,21/4/21,FALSE,ontem,BA* ,https://bi.saude.ba.gov.br/transparencia/,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:48,CE,2021-04-21,634609,16593,1203384,21/4/21,FALSE,ontem,CE* ,https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:49,DF,2021-04-21,369808,7388,371394,21/4/21,FALSE,ontem,DF* ,https://covid19.ssp.df.gov.br/extensions/covid19/covid19.html#/,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:22,ES,2021-04-21,422077,8915,608652,21/4/21,FALSE,ontem,ES* ,https://coronavirus.es.gov.br/painel-covid-19-es,,dados até às 17h (segundo o painel)
+2020-11-02,ok,ses,,2021-04-21,2021-04-21 19:50,GO,2021-04-21,532735,14165,750834,21/4/21,FALSE,ontem,GO* ,https://extranet.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:24,MA,2021-04-21,259569,6991,723795,21/4/21,FALSE,ontem,MA* ,https://www.corona.ma.gov.br/,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:25,MG,2021-04-21,1298176,30994,2726116,21/4/21,FALSE,ontem,MG* ,http://coronavirus.saude.mg.gov.br/painel,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:27,MS,2021-04-20,239918,5335,445152,20/4/21,FALSE,desatualizado,MS* ,http://mais.saude.ms.gov.br/sense/app/51c38346-b65d-4f3e-8a80-5111a7a9da76/overview,,divulga dados do dia anterior
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:33,MT,2021-04-21,347815,9296,326383,21/4/21,FALSE,ontem,MT* ,http://www.saude.mt.gov.br/painelcovidmt/,,
+jessica pode subir 19h,ok,ses,,2021-04-21,2021-04-21 19:35,PA,2021-04-21,457961,12263,957588,21/4/21,FALSE,ontem,PA* ,https://www.covid-19.pa.gov.br/#/,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:40,PB,2021-04-21,283147,6549,585154,21/4/21,FALSE,ontem,PB* ,https://superset.plataformatarget.com.br/superset/dashboard/55/,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:39,PE,2021-04-21,388507,13380,1208621,21/4/21,FALSE,ontem,PE* ,https://dados.seplag.pe.gov.br/apps/corona.html,,"divulga dados do dia anterior, mas estamos pondo o mesmo dia (por enquanto)"
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:55,PI,2021-04-21,231921,4858,371662,21/4/21,FALSE,ontem,PI* ,http://coronavirus.pi.gov.br/,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:34,PR,2021-04-21,917441,20809,1471232,21/4/21,FALSE,ontem,PR* ,,,"somar dados dos residentes fora do PR, na ultima pagina do boletim"
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:29,RJ,2021-04-21,712525,42110,1931318,21/4/21,FALSE,ontem,RJ* ,http://painel.saude.rj.gov.br/monitoramento/covid19.html,,
+18/04/2021 19:21:00,ok,brasilio,,2021-04-20,2021-04-21 19:26,RN,2021-04-19,215460,5195,441690,19/4/21,FALSE,desatualizado,RN* ,https://portalcovid19.saude.rn.gov.br/,,divulga dados do dia anterior
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:24,RO,2021-04-21,207030,4939,163323,21/4/21,FALSE,ontem,RO* ,http://covid19.sesau.ro.gov.br/,,
+VACINA,ok,ses,,2021-04-20,2021-04-21 19:55,RR,2021-04-20,94270,1466,62681,20/4/21,FALSE,desatualizado,RR* ,https://roraimacontraocorona.rr.gov.br/transparencia/,,conferir a data dos dados no painel da coleta
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:17,RS,2021-04-21,934970,23690,1992474,21/4/21,FALSE,ontem,RS* ,http://ti.saude.rs.gov.br/covid19/,,
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:15,SC,2021-04-21,863842,12842,899501,21/4/21,FALSE,ontem,SC* ,https://app.powerbi.com/view?r=eyJrIjoiNDMyMDhkMWItZTI3NC00ZTkzLWJiNTEtOWE1YWQxZjg4MjI2IiwidCI6ImExN2QwM2ZjLTRiYWMtNGI2OC1iZDY4LWUzOTYzYTJlYzRlNiJ9,,
+30/03/2021 19:47:00,ok,ses,,2021-04-21,2021-04-21 19:08,SE,2021-04-21,193271,4034,288811,21/4/21,FALSE,ontem,SE* ,https://todoscontraocorona.net.br/,,"dados atualizados pelo whatsapp de andre carvalho, assessor comunicação da SES SE: 7988072288"
+VACINA,ok,ses,,2021-04-21,2021-04-21 19:14,SP,2021-04-21,2786483,90627,6555831,21/4/21,FALSE,ontem,SP* ,https://www.seade.gov.br/coronavirus/,,
+vacina,ok,ses,,2021-04-21,2021-04-21 19:12,TO,2021-04-20,154764,2414,148063,20/4/21,FALSE,desatualizado,TO* ,http://integra.saude.to.gov.br/covid19/InformacoesEpidemiologicas,,divulga dados do dia anterior
